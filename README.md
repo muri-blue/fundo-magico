@@ -17,3 +17,6 @@ O **Fundo Mágico** é uma aplicação web interativa que permite aos usuários 
   - CSS3 (com Reset e Responsividade)
   - JavaScript
   - **n8n:** Plataforma de automação de fluxo de trabalho (Workflow Automation) utilizada para criar o Webhook que conecta o front-end à inteligência artificial.
+
+---
+Desenvolvido para fins de estudo e prática de desenvolvimento web.
